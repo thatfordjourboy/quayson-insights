@@ -22,7 +22,7 @@ export default function AboutPage() {
                 <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-primary-100 to-secondary-100 dark:from-primary-900/30 dark:to-secondary-900/30 rotate-3"></div>
                 <div className="absolute inset-0 rounded-2xl overflow-hidden bg-white dark:bg-dark-800 shadow-xl">
                   <Image
-                    src="/api/placeholder?width=600&height=600&text=About+Page+Profile"
+                    src="/public/images/about.webp"
                     alt="Eleazer Quayson"
                     width={600}
                     height={600}
