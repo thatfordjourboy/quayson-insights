@@ -101,7 +101,7 @@ export default function Footer() {
             © {currentYear} Eleazer Quayson. All rights reserved.
           </p>
           <p className="text-gray-500 dark:text-gray-400 text-sm mt-4 sm:mt-0">
-            Built with Next.js, Tailwind CSS, and Framer Motion
+            For you, Ames!
           </p>
         </div>
       </div>
